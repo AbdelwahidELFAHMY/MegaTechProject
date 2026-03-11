@@ -27,7 +27,7 @@ const sendEmail = (req, res) => {
     secure: false,
     auth: {
       user: "abdelwahidfhmy@gmail.com",
-      pass: "yjvt blgt eswp bpfx",
+      pass: "hnni djcx mxii fskt",
     },
   });
 
@@ -73,3 +73,4 @@ const sendEmail = (req, res) => {
 };
 
 export default sendEmail;
+
